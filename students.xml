@@ -1,0 +1,31 @@
+<students>
+
+    <student>
+        <name>Amaresh V</name>
+        <age>23</age>
+        <course>BCA</course>
+        <country>India</country>
+        <dob>18-12-1998</dob>
+    </student>
+    <student>
+        <name>Jeevan </name>
+        <age>64</age>
+        <course>BSC</course>
+        <country>USA</country>
+        <dob>11-11-1998</dob>
+    </student>
+    <student>
+        <name>Naveen J</name>
+        <age>45</age>
+        <course>BCA</course>
+        <country>India</country>
+        <dob>23-4-1995</dob>
+    </student>
+    <student>
+        <name>Amaresh V</name>
+        <age>34</age>
+        <course>MCA</course>
+        <country>Japan</country>
+        <dob>11-05-1998</dob>
+    </student>
+</students>
